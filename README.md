@@ -5,7 +5,7 @@
         <img src="https://i.pinimg.com/736x/a2/76/f2/a276f2e86c82eac6227288e19822cd75.jpg" width="50" style="border-radius: 50%;" />
       </td>
       <td align="left" valign="middle">
-        <img src="https://lanyard.cnrad.dev/api/772129379248693259?theme=dark&badge=developer&animated=false&hideDiscrim=true&borderRadius=5px" height="20" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCGOUG89_QmZPJV3eejWY6q7Hw7NXebvfHMA&s" height="20" />
       </td>
     </tr>
     <tr>
