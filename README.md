@@ -7,6 +7,17 @@
 
 ---
 
+<div align="center" style="margin: 20px 0;">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" height="80" style="border-radius: 50%" />
+  <h3><b>co3er</b> <img src="https://img.shields.io/badge/-1337-blue?style=flat-square&logo=github" /></h3>
+  <img src="https://img.shields.io/badge/-offline-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/-idle-green?style=flat-square" />
+  <br />
+  <p><i>I'm not currently doing anything!</i></p>
+</div>
+
+---
+
 > "The best way to predict the future is to invent it." – Alan Kay
 
 ---
