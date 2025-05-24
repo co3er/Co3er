@@ -9,17 +9,17 @@
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://i.pinimg.com/736x/a2/76/f2/a276f2e86c82eac6227288e19822cd75.jpg" width="80" height="80" style="border-radius: 50%" />
-  
+
   <h3>
     <b>co3er</b>
-    <img src="https://img.shields.io/badge/Developer-⚡-blueviolet?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/Developer-%F0%9F%92%BB-blueviolet?style=flat-square&logo=visualstudiocode&logoColor=white" />
   </h3>
-  
-  <img src="https://img.shields.io/badge/status-offline-red?style=flat-square&logo=discord&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/status-online-brightgreen?style=flat-square&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-co3er%230001-5865F2?style=flat-square&logo=discord&logoColor=white" />
   
   <br />
-  <p><i>idk what to make</i></p>
+  <p><i>IDK WHAT TO DO</i></p>
 </div>
 
 
