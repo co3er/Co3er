@@ -2,7 +2,7 @@
 <h3 align="center">🐍 Python Developer | 🚀 Tech Enthusiast | 🎥 YouTuber</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=co3er&label=Profile%20Views&color=blue&style=flat-square" alt="co3er" />
+  <img src="https://i.pinimg.com/736x/a2/76/f2/a276f2e86c82eac6227288e19822cd75.jpg" alt="co3er" />
 </p>
 
 ---
