@@ -7,19 +7,16 @@
 
 ---
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://i.pinimg.com/736x/a2/76/f2/a276f2e86c82eac6227288e19822cd75.jpg" width="80" height="80" style="border-radius: 50%" />
-
-  <h3>
-    <b>co3er</b>
-    <img src="https://img.shields.io/badge/Developer-%F0%9F%92%BB-blueviolet?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/co3er/co3er/main/d26f5f83-c917-417b-9517-2f48a583d2cf.png" width="80" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.5);" />
+  
+  <h3 style="color: white; margin: 10px 0 5px;"><b>Co3er</b>
+    <img src="https://img.shields.io/badge/1337-00bfff?style=flat-square&logo=skull&logoColor=white" />
+    <img src="https://img.shields.io/badge/status-idle-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/activity-off-green?style=flat-square" />
   </h3>
 
-  <img src="https://img.shields.io/badge/status-online-brightgreen?style=flat-square&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-co3er%230001-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  
-  <br />
-  <p><i>IDK WHAT TO DO</i></p>
+  <p><i>I'm not currently doing anything!</i></p>
 </div>
 
 
