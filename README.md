@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Co3er</h1>
+<h3 align="center">🐍 Python Developer | 🚀 Tech Enthusiast | 🎥 YouTuber</h3>
 
-<!--
-**co3er/Co3er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=co3er&label=Profile%20Views&color=blue&style=flat-square" alt="co3er" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "The best way to predict the future is to invent it." – Alan Kay
+
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on cool Python projects  
+- 🌱 Learning Flask, automation, and AI basics  
+- 🎥 I run a tech YouTube channel: [@co3er](https://www.youtube.com/@co3er)  
+- 💬 Ask me about Python, Git, or content creation  
+- ⚡ Fun fact: I love turning ideas into tools!
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=co3er&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=co3er&theme=radical&margin-w=10&margin-h=15" />
+</p>
+
+---
+
+### 📺 Follow Me on YouTube
+
+[![YouTube](https://img.shields.io/badge/YouTube-Co3er-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@co3er)
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 GitHub: [co3er](https://github.com/co3er)
+- 🎥 YouTube: [@co3er](https://www.youtube.com/@co3er)
+
+---
+
+### 😄 Let's Build Something Awesome!
