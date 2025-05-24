@@ -7,17 +7,14 @@
 
 ---
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/co3er/co3er/main/d26f5f83-c917-417b-9517-2f48a583d2cf.png" width="80" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.5);" />
-  
-  <h3 style="color: white; margin: 10px 0 5px;"><b>Co3er</b>
-    <img src="https://img.shields.io/badge/1337-00bfff?style=flat-square&logo=skull&logoColor=white" />
-    <img src="https://img.shields.io/badge/status-idle-orange?style=flat-square" />
-    <img src="https://img.shields.io/badge/activity-off-green?style=flat-square" />
-  </h3>
+<p align="center">
+  <strong>aizer.fr</strong>
+  <img src="https://img.shields.io/badge/1337-%20-2f3136?style=for-the-badge&logo=skull&logoColor=white&labelColor=2f3136" />
+  <img src="https://img.shields.io/badge/-Idle-orange?style=for-the-badge&logo=chevron-down&logoColor=white&labelColor=2f3136" />
+  <img src="https://img.shields.io/badge/-Off-green?style=for-the-badge&logo=git&logoColor=white&labelColor=2f3136" />
+  <img src="https://img.shields.io/badge/Discord%20Developer-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
 
-  <p><i>I'm not currently doing anything!</i></p>
-</div>
 
 
 ---
