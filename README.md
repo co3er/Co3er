@@ -2,19 +2,24 @@
 <h3 align="center">🐍 Python Developer | 🚀 Tech Enthusiast | 🎥 YouTuber</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/a2/76/f2/a276f2e86c82eac6227288e19822cd75.jpg" alt="co3er" />
+  <img src="https://komarev.com/ghpvc/?username=co3er&label=Profile%20Views&color=blue&style=flat-square" alt="co3er" />
 </p>
 
 ---
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" height="80" style="border-radius: 50%" />
+  <img src="https://i.pinimg.com/736x/a2/76/f2/a276f2e86c82eac6227288e19822cd75.jpg" width="80" height="80" style="border-radius: 50%" />
   <h3><b>co3er</b> <img src="https://img.shields.io/badge/-1337-blue?style=flat-square&logo=github" /></h3>
-  <img src="https://img.shields.io/badge/-offline-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/-idle-green?style=flat-square" />
+  
+  <img src="https://img.shields.io/badge/status-offline-red?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-idle-yellow?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-online-brightgreen?style=flat-square&logo=discord&logoColor=white" />
+  
   <br />
+  <img src="https://img.shields.io/badge/Discord-co3er%230001-5865F2?style=flat-square&logo=discord&logoColor=white" />
   <p><i>I'm not currently doing anything!</i></p>
 </div>
+
 
 ---
 
