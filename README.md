@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_TO_YOUR_BANNER_IMAGE" width="100%" alt="co3er banner" />
+  <img src="unnamed1.jpg" width="100%" alt="co3er banner" />
 
   <br/>
 
