@@ -1,43 +1,46 @@
-# ⚡ Welcome to [Your Name/Alias]'s Lab
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&hasGradient=true&height=300&section=header&text=Automation%20Specialist&fontSize=70&animation=fadeIn" width="100%" />
 
-### 🚀 Technical Researcher & Automation Specialist
-I specialize in **High-Concurrency Systems**, **Asynchronous Python**, and **Network Infrastructure Testing**. My work focuses on pushing the limits of modern APIs and exploring the boundaries of social platform security.
-
----
-
-### 🛠️ The Arsenal
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript (Node.js), C++, Go |
-| **Frameworks** | Aiohttp, FastAPI, Discord.py, Selenium |
-| **Networking** | Proxy Rotation, HTTP/2, WebSocket Hijacking |
-| **Databases** | Redis, MongoDB, PostgreSQL |
+  <h3>🚀 Full-Stack Developer & Automation Researcher</h3>
+  <p>Python | HTML | CSS | Asynchronous Systems</p>
+</div>
 
 ---
 
-### 📊 System Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+### ⚡ The Arsenal
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/asyncio-00599C?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 ---
 
-### 🔥 Active Research Areas
-* **API Stress Testing:** Developing high-throughput utilities for platform resilience.
-* **Traffic Obfuscation:** Implementing advanced proxy-tunneling and header-spoofing techniques.
-* **Distributed Systems:** Building scalable bot-nets for data scraping and automation.
+### 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" height="192px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="192px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight" width="100%" />
+</div>
 
 ---
 
-### 🛡️ Disclaimer
-All repositories hosted here are for **educational and research purposes only**. I advocate for the "Full Disclosure" principle in security—finding vulnerabilities to better understand system architecture. I do not condone or support malicious activity.
+### 🛠️ Projects in Development
+* **[Project Name]**: High-concurrency Discord auditor built with `asyncio`.
+* **[Web Dashboard]**: A sleek HTML/CSS frontend for managing automation tokens.
+* **[Net-Stressor]**: Python-based utility for testing API rate limits.
 
 ---
 
-### 🤝 Connect with Me
-[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/users/YOUR_ID)
-[<img src="https://img.shields.io/badge/Telegram-26A8ED?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/YOUR_HANDLE)
-
----
-
-### ⚡ Secret Tech Fact
-> In Python, `asyncio` can handle thousands of concurrent network connections on a single thread—making it the gold standard for high-performance automation scripts.
+### 🤝 Connect
+<p align="center">
+<a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://t.me/YOUR_USER"><img src="https://img.shields.io/badge/Telegram-26A8ED?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
