@@ -1,139 +1,171 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════
+     ANIMATED HEADER WAVE
+════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:0a0a0a&height=140&section=header&text=co3er&fontSize=52&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=frontend%20·%20design%20·%20ux&descAlignY=82&descSize=13&descColor=555555" width="100%"/>
 
-<!-- Name with subtle typing effect via readme-typing-svg -->
-<a href="https://github.com/co3er">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=300&size=42&duration=3000&pause=2000&color=111111&center=true&vCenter=true&width=600&height=80&lines=co3er.;Frontend+Designer.;Pixel+perfectionist." alt="Typing SVG" />
-</a>
+<!-- ═══════════════════════════════════════════════════
+     TYPING ANIMATION
+════════════════════════════════════════════════════ -->
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=300&size=18&duration=3500&pause=1500&color=888888&center=true&vCenter=true&width=500&height=40&lines=crafting+interfaces+that+feel+inevitable.;pixel+perfectionist.;less%2C+but+better.;frontend+engineer+%26+designer.)](https://github.com/co3er)
 
 <br/>
 
-<!-- Subtle tagline -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=300&size=14&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=600&height=30&lines=crafting+interfaces+that+feel+inevitable." alt="Tagline" />
-</p>
-
-<br/>
-
----
-
-<!-- Social Badges — clean, monochrome -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/co3er)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/co3er)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/co3er)
+<!-- STATUS BADGES -->
+[![GitHub followers](https://img.shields.io/github/followers/co3er?style=flat-square&color=111111&labelColor=0a0a0a&logo=github&logoColor=white&label=followers)](https://github.com/co3er)
+![Profile views](https://komarev.com/ghpvc/?username=co3er&style=flat-square&color=111111&label=profile+views)
+[![Open to work](https://img.shields.io/badge/open_to_work-✦-111111?style=flat-square&labelColor=0a0a0a)](https://github.com/co3er)
 
 <br/><br/>
 
 ---
 
-## &nbsp;
+<!-- ═══════════════════════════════════════════════════
+     ABOUT
+════════════════════════════════════════════════════ -->
 
-<!-- About -->
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   const co3er = {                                       │
-│     focus    : "frontend · design systems · ux",        │
-│     building : "minimal interfaces with max impact",    │
-│     approach : "less, but better",                      │
-│     currently: "open to collaborations",                │
-│   }                                                     │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+```ts
+const co3er = {
+  role      : "frontend engineer & designer",
+  philosophy: "less, but better",
+  building  : "minimal interfaces with max impact",
+  focus     : ["design systems", "motion design", "ux"],
+  location  : "Islamabad, PK 🇵🇰",
+  status    : "open to collaborations ✦",
+} as const;
 ```
 
 <br/>
 
 ---
 
-## &nbsp;
+<!-- ═══════════════════════════════════════════════════
+     STACK
+════════════════════════════════════════════════════ -->
 
-<!-- Tech Stack -->
-**Stack**
+**`// stack`**
 
-&nbsp;
+<br/>
 
-![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
-![Framer](https://img.shields.io/badge/Framer-000?style=flat-square&logo=framer&logoColor=0055FF)
-![GSAP](https://img.shields.io/badge/GSAP-000?style=flat-square&logo=greensock&logoColor=88CE02)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-<br/><br/>
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Framer Motion](https://img.shields.io/badge/Framer-111111?style=for-the-badge&logo=framer&logoColor=0055FF)
 
----
-
-## &nbsp;
-
-<!-- GitHub Stats — dark minimal theme -->
-**GitHub**
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api?username=co3er&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&title_color=111111&text_color=555555&icon_color=111111&rank_icon=github&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=co3er&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&title_color=111111&text_color=555555&langs_count=6" height="160"/>
-
-<br/><br/>
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=co3er&theme=transparent&hide_border=true&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=888888&currStreakNum=111111&sideNums=111111&dates=aaaaaa&stroke=00000000" height="160"/>
+![GSAP](https://img.shields.io/badge/GSAP-111111?style=for-the-badge&logo=greensock&logoColor=88CE02)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=three.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 
 <br/><br/>
 
 ---
 
-## &nbsp;
+<!-- ═══════════════════════════════════════════════════
+     GITHUB STATS
+════════════════════════════════════════════════════ -->
 
-<!-- Contribution Snake -->
-**Contributions**
+**`// github`**
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=co3er&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=1a1a1a&title_color=ffffff&text_color=666666&icon_color=555555&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true&custom_title=co3er%27s+stats" height="165"/>
 &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=co3er&layout=compact&theme=dark&bg_color=0d0d0d&border_color=1a1a1a&title_color=ffffff&text_color=666666&hide_border=false&langs_count=6&custom_title=top+languages" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=co3er&theme=dark&background=0D0D0D&border=1a1a1a&ring=444444&fire=888888&currStreakLabel=888888&sideLabels=555555&currStreakNum=ffffff&sideNums=aaaaaa&dates=444444&stroke=1a1a1a" height="165"/>
+
+<br/><br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════
+     CONTRIBUTION SNAKE
+════════════════════════════════════════════════════ -->
+
+**`// contributions`**
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/co3er/co3er/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/co3er/co3er/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/co3er/co3er/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/co3er/co3er/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════
+     ACTIVITY GRAPH
+════════════════════════════════════════════════════ -->
+
+**`// activity`**
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=co3er&bg_color=0d0d0d&color=555555&line=333333&point=888888&area=true&area_color=1a1a1a&hide_border=false&border_color=1a1a1a&custom_title=contribution+activity" width="98%"/>
+
 <br/><br/>
 
 ---
 
-## &nbsp;
+<!-- ═══════════════════════════════════════════════════
+     TROPHIES
+════════════════════════════════════════════════════ -->
 
-<!-- Activity Graph -->
-**Activity**
+**`// trophies`**
 
-&nbsp;
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=co3er&bg_color=ffffff&color=888888&line=111111&point=111111&area=true&area_color=f0f0f0&hide_border=true&custom_title=" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=co3er&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6" width="98%"/>
 
 <br/><br/>
 
 ---
-
-## &nbsp;
-
-<!-- Profile views + WakaTime -->
-<img src="https://komarev.com/ghpvc/?username=co3er&style=flat-square&color=111111&label=profile+views"/>
-
-&nbsp;
 
 <sub>designed with intention · built with precision</sub>
 
 <br/>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:0a0a0a&height=80&section=footer" width="100%"/>
 
 </div>
+
+<!--
+════════════════════════════════════════════════════
+SNAKE GITHUB ACTION → save as .github/workflows/snake.yml
+════════════════════════════════════════════════════
+
+name: Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: co3er
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
